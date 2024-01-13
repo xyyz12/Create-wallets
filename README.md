@@ -7,4 +7,6 @@ pip install eth-account -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install --upgrade typing-extensions
 
  python .\create_wallets.py
- ![image](https://github.com/xyyz12/Create-wallets/assets/91812763/83c9c0fc-fe39-4723-8c50-ec5c3f4aab75)
+
+![image](https://github.com/xyyz12/Create-wallets/assets/91812763/5ec08975-dcd8-44d1-ad23-44904ed570b7)
+
